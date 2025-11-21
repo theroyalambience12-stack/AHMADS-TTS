@@ -1,0 +1,5 @@
+{
+  "name": "AHMADS TTS",
+  "description": "High-fidelity text-to-speech generator using Gemini 2.5 Flash technology.",
+  "requestFramePermissions": []
+}
